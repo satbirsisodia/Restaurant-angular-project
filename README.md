@@ -40,6 +40,14 @@ This project used to save restaurant detials like name, email, address etc.
 we can do curd operation in it.
 i use json.api to store our data .
 
+![db](https://user-images.githubusercontent.com/91602884/138641619-eb45f49f-6693-4497-82ec-2ac74b66d401.jpg)
+![json sever](https://user-images.githubusercontent.com/91602884/138641646-139286a0-7f31-4d62-bd1a-eea6a659188b.jpg)
+![home page](https://user-images.githubusercontent.com/91602884/138641664-38865e71-458d-489a-8860-f5de2f56d45d.jpg)
+![login component](https://user-images.githubusercontent.com/91602884/138641678-8573a4b7-a4ca-4eb2-b9a6-ee58db18bab4.jpg)
+![regitser component](https://user-images.githubusercontent.com/91602884/138641687-eca83bbe-0989-41cc-ae80-e4f5bbf929a6.jpg)
 
-![image](https://user-images.githubusercontent.com/91602884/138641330-66230cba-9aaa-4e4c-b147-e0913b92bd46.png)
+
+
+
+
 
