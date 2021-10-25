@@ -39,3 +39,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 This project used to save restaurant detials like name, email, address etc.
 we can do curd operation in it.
 i use json.api to store our data .
+
+
+![image](https://user-images.githubusercontent.com/91602884/138641330-66230cba-9aaa-4e4c-b147-e0913b92bd46.png)
+
