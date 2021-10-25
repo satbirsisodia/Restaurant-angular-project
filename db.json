@@ -1,0 +1,66 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC Restaurant",
+      "email": "kfc@test.com",
+      "address": "Zirakpur near Decathlon3",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "LUCKY DHABA",
+      "address": "Zirakpur patiala road",
+      "email": "lucky@test.com"
+    },
+    {
+      "name": "PUPPY DHABA",
+      "email": "puppy@test.com",
+      "address": "Zirakpur patiala highway",
+      "id": 3
+    },
+    {
+      "name": "DOMINOS",
+      "address": " Big Bazaar Zirakpur",
+      "email": "dominos@test.com",
+      "id": 4
+    },
+    {
+      "name": "HALDIRAM",
+      "address": " Sector 7 Chandigarh",
+      "email": "haldiram@test.com",
+      "id": 5
+    },
+    {
+      "name": "sindhi sweets",
+      "email": "sindhi@test.com",
+      "address": "sector 34 chd",
+      "id": 6
+    },
+    {
+      "name": "gagan",
+      "email": "test@gmail.com",
+      "address": "chandigarh",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "ankit",
+      "email": "ankit@123",
+      "password": "anki@123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ]
+}

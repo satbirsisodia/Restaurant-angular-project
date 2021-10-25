@@ -1,0 +1,1 @@
+to start api service: JSON-server --watch db.json
